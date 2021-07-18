@@ -11,9 +11,6 @@ Usage of this code is free for research purposed only.
 
 The demo file is Main.m in 3Dshearlet-fuzzyreasoning directory.
 The test images are in 3Dshearlet-fuzzyreasoning/test_images directory.
-Please note that the time cost reported in the paper is under the environment of Pentium 3.5 GHz CPU with 8GB RAM using MATLAB R2016a.
-Don’t hesitate to contact me if you meet any problems when using this code.
-
 
 *****************************************************************************
 
